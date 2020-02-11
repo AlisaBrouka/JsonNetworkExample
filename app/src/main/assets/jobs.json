@@ -1,0 +1,23 @@
+[
+  {
+    "company" : 1,
+    "position" : "Senior Java Developer",
+    "location" : "London"
+
+  },
+  {
+    "company" : 2,
+    "position" : "Middle Java Developer",
+    "location" : "London"
+  },
+  {
+    "company" : 3,
+    "position" : "Junior Java Developer",
+    "location" : "London"
+  },
+  {
+    "company" : 4,
+    "position" : "Java Developer Trainee" ,
+    "location" : "London"
+  }
+]
